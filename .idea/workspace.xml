@@ -97,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557041679865</updated>
       <workItem from="1557041695450" duration="1312000" />
-      <workItem from="1557043145372" duration="6239000" />
+      <workItem from="1557043145372" duration="7047000" />
     </task>
     <task id="LOCAL-00001" summary="modified with pastes from 1901_temp_Ana_Plos.ipynb">
       <created>1557134558147</created>
@@ -127,11 +127,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557142292944</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modified with pastes from 1901_temp_Ana_Plos.ipynb&#10;new commit&#10;ready to Push">
+      <created>1557142538313</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557142538313</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7551000" />
+    <option name="totallyTimeSpent" value="8359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -149,7 +156,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
